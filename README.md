@@ -11,8 +11,8 @@ The page adheres to the BEM (Block Element Modifier) methodology and features di
 
 ## Related Links
 
-- [DEMO LINK](https://yaroslav-na.github.io/crazybaby-landing/)
-- [FIGMA DESIGN](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32)
+- [DEMO LINK](https://yaroslav-na.github.io/bang-olufsen-landing/)
+- [FIGMA DESIGN](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212)
 
 ## Launch Instructions
 
